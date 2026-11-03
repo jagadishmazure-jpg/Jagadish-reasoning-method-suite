@@ -1,8 +1,8 @@
 # Knowledge notes: reasoning strategies under one harness
 
-Original distilled notes. No source text is quoted or copied here; method
-names are used as generic strategy labels, and every claim below is about
-the simulated harness in this repo, not about any real system.
+Original notes. Method names are used as generic strategy labels, and every
+claim below is about the simulated harness in this repo, not about any real
+system.
 
 ## The five strategies, and what each one pays for
 
@@ -57,9 +57,9 @@ signal-favoured prefixes do not count. Keeping the definition this strict
 is what makes the evaluator neutral: it inspects only the walk's outcome,
 never the method's internal reasoning.
 
-## Related reading (concepts only, credited by name)
+## Strategy families
 
-The strategy labels echo well-known families in the reasoning literature
+The strategy labels name common reasoning strategy families
 — tree-structured search, graph-structured search, self-correction by
 backtracking, lookahead-guided search, and planning a solution skeleton
 before filling in steps. This repo implements small deterministic

@@ -56,9 +56,6 @@
   sensitivity, no judge bias, and no human evaluation in this instrument
   — by design, and also a reason its results cannot transfer to settings
   that have those things.
-- **Overlap check not run.** All prose in this repo was written fresh for
-  it and no source text was copied, but the formal 8-word overlap check
-  against source material was not executed, so it is not claimed as passed.
 
 ## What would make this instrument stronger (Planned)
 

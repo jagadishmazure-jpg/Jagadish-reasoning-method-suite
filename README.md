@@ -156,7 +156,6 @@ Example output (real output from `scripts/run_demo.py`):
 | Fairness tests (order invariance, broken-control-last) | Built |
 | PII redaction, confirmation gates, budget validation, hash-chained audit, brand check | Built |
 | CI workflow file (`.github/workflows/ci.yml`) | Written, **not run — CI NOT verified** |
-| 8-word overlap check against source text | Not run — **not claimed** (all prose here is original; no source text was copied) |
 | Larger independently generated task set, statistical reporting | Planned |
 | Adapter for real-model runs (same harness, same scoring) | Planned |
 | Deployment, packaging, releases | Planned (not built) |
