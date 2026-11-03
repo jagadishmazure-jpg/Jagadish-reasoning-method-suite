@@ -6,7 +6,6 @@ from reasoning_suite import (
     METHOD_NAMES,
     EvaluatorAgent,
     Harness,
-    MethodRunner,
     Reporter,
     build_method,
     default_tasks,

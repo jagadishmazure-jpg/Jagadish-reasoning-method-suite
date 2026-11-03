@@ -15,7 +15,7 @@ are generated on demand, and no tree is ever materialised in full.
 from __future__ import annotations
 
 import hashlib
-from dataclasses import dataclass, field
+from dataclasses import dataclass
 
 
 def validate_budget(value: int, name: str = "budget") -> int:
